@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="facebook_app_id">your_facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">fbYourFacebookAppId</string>
+    <string name="facebook_client_token">your_facebook_client_token</string>
+    <string name="default_web_client_id">YOUR-WEB-CLIENT-ID.apps.googleusercontent.com</string>
+</resources> 
